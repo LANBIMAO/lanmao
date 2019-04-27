@@ -8,4 +8,8 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Creating a new branch is quick.
 Creating a new branch is quick and and and and  simple.
+<<<<<<< Updated upstream
 131415926
+=======
+131415926.
+>>>>>>> Stashed changes
